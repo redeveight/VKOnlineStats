@@ -1,7 +1,7 @@
 <img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/vk-online-stats/blob/master/resources/images/logo.png" />
 
 ## Description
-Telegram Bot and Python script for tracking Vk activity.
+Bot for tracking Vk user activity.
 
 <img align="right" alt="vk-online-stats Result" src="https://github.com/redeveight/vk-online-stats/blob/master/resources/images/example_result.png" />
 
